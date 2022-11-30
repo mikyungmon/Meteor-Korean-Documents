@@ -36,6 +36,7 @@ title: 서버 커넥션
     retryTime?: Number    // waiting 상태일 경우, 다음 재연결 시도 시각
   }
   ```
+!수정
 
 ## reconnect()
 
